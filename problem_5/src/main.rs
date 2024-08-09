@@ -20,7 +20,6 @@ fn smallest_multiple() -> u64 {
     }
     multiple
 }
-
 fn main() {
     println!("{}", smallest_multiple());
 }
